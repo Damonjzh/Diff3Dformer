@@ -32,4 +32,4 @@ python main.py
     --expname test
 ```
 
-You can used our pretrained model for CCCCII data. The preprocessed CCCCII data and pretrained model can be found at https://drive.google.com/drive/folders/1eNIEUEAoZH9GIX0ewoBkTOJ2trBGyBmO?usp=sharing. 
+You can used our pretrained model for CCCCII data. The preprocessed CCCCII data and pretrained model can be found at [https://drive.google.com/drive/folders/1eNIEUEAoZH9GIX0ewoBkTOJ2trBGyBmO?usp=sharing](https://drive.google.com/drive/folders/1rUcMb51kNHuVzhdKjQNpmFxbRokukCfq). 
